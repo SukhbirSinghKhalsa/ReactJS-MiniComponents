@@ -1,3 +1,4 @@
+// the code is taken from official React and they are sole owner of it, I just added the comments and uploaded it for reference purposes only.
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
